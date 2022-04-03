@@ -4,8 +4,7 @@ project from datacamp
 
 Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
 ## Instructions 
-**1. Upload a picture from your computer by the OPEN button.**
-***You work as a Data Analyst for a finance company which is closely eyeing the Android market before it launches its new app into Google Play. You have been asked to present an analysis of Google Play apps so that the team gets a comprehensive overview of different categories of apps, their ratings, and other metrics.
+**You work as a Data Analyst for a finance company which is closely eyeing the Android market before it launches its new app into Google Play. You have been asked to present an analysis of Google Play apps so that the team gets a comprehensive overview of different categories of apps, their ratings, and other metrics.**
 
 This will require you to use your data manipulation and data analysis skills.
 
